@@ -41,3 +41,6 @@ I am a Aspiring Full Stack Web Developer  <img src="https://media.giphy.com/medi
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamaman526)](https://git.io/streak-stats)
