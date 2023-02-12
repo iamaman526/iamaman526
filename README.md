@@ -46,4 +46,4 @@ I am a Aspiring Full Stack Web Developer  <img src="https://media.giphy.com/medi
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=iamaman526)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaman526&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
